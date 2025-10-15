@@ -31,7 +31,7 @@ This is my Telegram bot for X-STOODERS shop. Built it to make online shopping sm
 
 ```bash
 # Clone the repo
-git clone https://github.com/Justhateme0/x_stooders_bot.git
+git clone https://github.com/Justhateme0/Telegram-Shop-Bot
 cd x_stooders_bot
 
 # Install dependencies
@@ -114,7 +114,7 @@ Feel free to use this project however you want. Just give credit where it's due!
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/Justhateme0/x_stooders_bot.git
+git clone https://github.com/Justhateme0/Telegram-Shop-Bot
 cd x_stooders_bot
 
 # Ставим зависимости
